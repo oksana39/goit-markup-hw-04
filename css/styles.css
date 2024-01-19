@@ -454,11 +454,11 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   margin-bottom: 16px;
+}
 
-  .foot-social-list {
-    display: flex;
-    gap: 16px;
-  }
+.foot-social-list {
+  display: flex;
+  gap: 16px;
 }
 
 .foot-social-item {
@@ -484,4 +484,8 @@ img {
 }
 .foot-soce-icone {
   fill: none;
+}
+
+.foot-soce-icone:hover {
+  fill: #f4f4fd;
 }
