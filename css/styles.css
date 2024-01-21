@@ -298,7 +298,6 @@ img {
   justify-content: center;
   align-items: center;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  fill: none;
 }
 
 .teame-soce-link:hover,
@@ -306,7 +305,7 @@ img {
   background-color: #404bbf;
 }
 
-.teame-soce-icone:hover {
+.teame-soce-icone {
   fill: #f4f4fd;
 }
 
@@ -479,12 +478,12 @@ img {
   height: 100%;
   cursor: pointer;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  fill: none;
 }
+
 .foot-social-link:hover,
 .foot-social-link:focus {
   background-color: #31d0aa;
 }
-.foot-soce-icone:hover {
+.foot-soce-icone {
   fill: #f4f4fd;
 }
