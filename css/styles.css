@@ -302,10 +302,13 @@ img {
 
 .teame-soce-link:hover,
 .teame-soce-link:focus {
-  background-color: #31d0aa;
+  background-color: #404bbf;
 }
 .teame-soce-icone {
   fill: none;
+}
+.teame-soce-icone:hover {
+  fill: #f4f4fd;
 }
 
 .team-list {
