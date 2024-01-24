@@ -42,8 +42,6 @@ img {
   box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08),
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
     0px 2px 1px 0px rgba(46, 47, 66, 0.08);
-  width: 1440px;
-  margin: 0 auto;
 }
 .header-container {
   display: flex;
@@ -442,10 +440,6 @@ img {
 
 .foter-part-one {
   margin-right: 120px;
-}
-
-.container-foot-social {
-  margin-left: 120px;
 }
 
 .footer-text-soc {
